@@ -3,7 +3,7 @@ Pull all files from github
 Ensure you are in the correct directory
 
 Run the following commands:
-venv/bin/active (on mac) or venv\Scripts\activate (on windows)
+source venv/bin/activate (on mac) or venv\Scripts\activate (on windows)
 virtualenv venv
 pip install flask
 python app.py
