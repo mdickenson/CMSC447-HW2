@@ -4,9 +4,9 @@ Ensure you are in the correct directory
 
 Run the following commands:
 
-source venv/bin/activate (on mac) or venv\Scripts\activate (on windows)
-
 virtualenv venv
+
+source venv/bin/activate (on mac) or venv\Scripts\activate (on windows)
 
 pip install flask
 
