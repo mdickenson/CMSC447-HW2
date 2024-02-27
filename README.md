@@ -21,7 +21,11 @@ I made a simple user management CURD application which allows you to add new use
 
 # Features
 Add User: Input name, ID, and points of a new user and add them to the system
+
 Search User: Users can search for existing users by entering their name or ID
+
 Display Users: Users are displayed in a table format with columns for their details
+
 Delete User: There is a delete button in the table which allows to delete users
+
 Buttons Darken when hovered over
